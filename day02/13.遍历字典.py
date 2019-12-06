@@ -16,3 +16,4 @@ print(d.items())
 #该方法会返回字典中所有的项
 for k,v in d.items():
     print(k,v)
+
