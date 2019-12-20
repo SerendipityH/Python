@@ -36,4 +36,23 @@ def fn(func,list) :
     #返回新列表
     return new_list
 
-print(fn(fn3,l))
+#print(fn(fn3,l))
+
+
+#print(list(filter(fn3,l)))
+
+
+#lambda函数表达式 匿名函数
+#语法 :lambda 参数列表:返回值
+def fn5(a , b):
+    return a + b
+
+lambda a,b : a+b
+
+r = filter(lambda i : i > 5,l)
+print(list(r))
+
+#map()
+#map()函数可以对迭代对象中的所有元素做指定的操作
+r = map(lambda i : i+1,l)
+print(list(r))
