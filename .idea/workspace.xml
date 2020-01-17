@@ -39,23 +39,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1W4JqkxTIn26armNjUUQQ27EYrt" />
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State />
-          <State>
-            <id>Python</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>PyPep8Inspection</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -71,8 +54,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.16.模块">
-    <configuration name="12.多态" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.11.文件的其他操作">
+    <configuration name="07.文件的读取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,12 +63,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day04/12.多态.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day05/07.文件的读取.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13.类中的属性和方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08.文件的写入" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,12 +85,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day04/13.类中的属性和方法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day05/08.文件的写入.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15.特殊方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="09.文件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,12 +107,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day04/15.特殊方法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day05/09.文件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16.模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10.读取文件的位置" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,12 +129,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day04/16.模块.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day05/10.读取文件的位置.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11.文件的其他操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,12 +151,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day04/test_module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day05/11.文件的其他操作.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,19 +166,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.12.多态" />
-      <item itemvalue="Python.13.类中的属性和方法" />
-      <item itemvalue="Python.15.特殊方法" />
-      <item itemvalue="Python.test_module" />
-      <item itemvalue="Python.16.模块" />
+      <item itemvalue="Python.07.文件的读取" />
+      <item itemvalue="Python.08.文件的写入" />
+      <item itemvalue="Python.09.文件" />
+      <item itemvalue="Python.10.读取文件的位置" />
+      <item itemvalue="Python.11.文件的其他操作" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.16.模块" />
-        <item itemvalue="Python.test_module" />
-        <item itemvalue="Python.15.特殊方法" />
-        <item itemvalue="Python.13.类中的属性和方法" />
-        <item itemvalue="Python.12.多态" />
+        <item itemvalue="Python.11.文件的其他操作" />
+        <item itemvalue="Python.10.读取文件的位置" />
+        <item itemvalue="Python.09.文件" />
+        <item itemvalue="Python.08.文件的写入" />
+        <item itemvalue="Python.07.文件的读取" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +214,10 @@
       <workItem from="1578559353981" duration="659000" />
       <workItem from="1578628216813" duration="1335000" />
       <workItem from="1578731869249" duration="843000" />
-      <workItem from="1578817155921" duration="6371000" />
+      <workItem from="1578817155921" duration="7818000" />
+      <workItem from="1579154489176" duration="7846000" />
+      <workItem from="1579229810576" duration="4017000" />
+      <workItem from="1579236063555" duration="1002000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1575385105856</created>
@@ -251,22 +237,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1061" height="-1" key="GridCell.Tab.0.bottom" timestamp="1578897972130">
+    <state x="361" y="71" key="#Inspections" timestamp="1579157205722">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1061" height="-1" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578897972130" />
-    <state width="1061" height="-1" key="GridCell.Tab.0.center" timestamp="1578897972130">
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1579157205722" />
+    <state x="890" y="229" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579235211853">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1061" height="-1" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578897972130" />
-    <state width="1061" height="-1" key="GridCell.Tab.0.left" timestamp="1578897972130">
+    <state x="890" y="229" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1579235211853" />
+    <state width="1061" height="-12" key="GridCell.Tab.0.bottom" timestamp="1579236743966">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1061" height="-1" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578897972130" />
-    <state width="1061" height="-1" key="GridCell.Tab.0.right" timestamp="1578897972130">
+    <state width="1061" height="-12" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579236743966" />
+    <state width="1061" height="-12" key="GridCell.Tab.0.center" timestamp="1579236743966">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1061" height="-1" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578897972130" />
+    <state width="1061" height="-12" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579236743966" />
+    <state width="1061" height="-12" key="GridCell.Tab.0.left" timestamp="1579236743964">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1061" height="-12" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579236743964" />
+    <state width="1061" height="-12" key="GridCell.Tab.0.right" timestamp="1579236743966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1061" height="-12" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579236743966" />
     <state x="283" y="50" width="992" height="774" key="SettingsEditor" timestamp="1578628346740">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -275,10 +269,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="442" y="269" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578487855307" />
-    <state x="1138" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578496445210">
+    <state x="410" y="139" width="700" height="530" key="recent.locations.popup" timestamp="1579234994858">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="1138" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578496445210" />
+    <state x="410" y="139" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1579234994858" />
+    <state x="1138" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1579233101453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1138" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579233101453" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -304,17 +302,20 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python$05_.coverage" NAME="05.封装 Coverage Results" MODIFIED="1578405742622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
-    <SUITE FILE_PATH="coverage/Python$10_.coverage" NAME="10.继承 Coverage Results" MODIFIED="1578496286363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
-    <SUITE FILE_PATH="coverage/Python$08_.coverage" NAME="08.继承 Coverage Results" MODIFIED="1578491539669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
+    <SUITE FILE_PATH="coverage/Python$01_.coverage" NAME="01.异常 Coverage Results" MODIFIED="1579157241764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/Python$08_.coverage" NAME="08.文件的写入 Coverage Results" MODIFIED="1579232767245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
     <SUITE FILE_PATH="coverage/Python$15_.coverage" NAME="15.特殊方法 Coverage Results" MODIFIED="1578896025460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
-    <SUITE FILE_PATH="coverage/Python$12_.coverage" NAME="12.多态 Coverage Results" MODIFIED="1578817834154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
+    <SUITE FILE_PATH="coverage/Python$02_.coverage" NAME="02.抛出异常 Coverage Results" MODIFIED="1579159020936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
     <SUITE FILE_PATH="coverage/Python$test_module.coverage" NAME="test_module Coverage Results" MODIFIED="1578897471849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
-    <SUITE FILE_PATH="coverage/Python$07_.coverage" NAME="07.封装 Coverage Results" MODIFIED="1578408173094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
-    <SUITE FILE_PATH="coverage/Python$11_.coverage" NAME="11.多重继承 Coverage Results" MODIFIED="1578496737778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
-    <SUITE FILE_PATH="coverage/Python$06_.coverage" NAME="06.封装 Coverage Results" MODIFIED="1578407326883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
-    <SUITE FILE_PATH="coverage/Python$13_.coverage" NAME="13.类中的属性和方法 Coverage Results" MODIFIED="1578818671959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
-    <SUITE FILE_PATH="coverage/Python$09_.coverage" NAME="09.重写 Coverage Results" MODIFIED="1578495407973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
+    <SUITE FILE_PATH="coverage/Python$04_.coverage" NAME="04.打开文件 Coverage Results" MODIFIED="1579160739442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/Python$11_.coverage" NAME="11.文件的其他操作 Coverage Results" MODIFIED="1579236743938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
     <SUITE FILE_PATH="coverage/Python$16_.coverage" NAME="16.模块 Coverage Results" MODIFIED="1578897972121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
+    <SUITE FILE_PATH="coverage/Python$09_.coverage" NAME="09.文件 Coverage Results" MODIFIED="1579235205303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/Python$05_.coverage" NAME="05.关闭文件 Coverage Results" MODIFIED="1579161564846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/Python$10_.coverage" NAME="10.读取文件的位置 Coverage Results" MODIFIED="1579235661817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/Python$12_.coverage" NAME="12.多态 Coverage Results" MODIFIED="1578817834154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
+    <SUITE FILE_PATH="coverage/Python$07_.coverage" NAME="07.文件的读取 Coverage Results" MODIFIED="1579232105040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
+    <SUITE FILE_PATH="coverage/Python$13_.coverage" NAME="13.类中的属性和方法 Coverage Results" MODIFIED="1578818671959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day04" />
+    <SUITE FILE_PATH="coverage/Python$06_.coverage" NAME="06.文件的读取 Coverage Results" MODIFIED="1579179063644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day05" />
   </component>
 </project>
